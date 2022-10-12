@@ -18,7 +18,7 @@ email address: hofmeyrjh@gmail.com
 LinkedIn: https://www.linkedin.com/in/jan-hendrik-hofmeyr-79153a7/
 
 EDUCATION:
-I competed a degreed in BComm Entrepreneurship and followed it up with an Honours degreee in General Business Management.
+Completed a degreed in BComm Entrepreneurship and followed it up with an Honours degreee in General Business Management.
 Recently I have completed a  Data Scientist Bootcamp at Hyperion Dev.
 
 Below are some links to some early projects completed during studying:
@@ -28,7 +28,7 @@ SCRATCH: - https://github.com/JanHof/Project-Zero
 My first project for CS50 is just a short scratch animation which is more of an inside joke among friends.
 
 
-LEVEL 2 CaSTONE PROJECT 2 - https://github.com/JanHof/Level-2-Capstone-Project-2
+LEVEL 2 CAPSTONE PROJECT 2 - https://github.com/JanHof/Level-2-Capstone-Project-2
 
 For this task, I cleaned, sanitised and explored data using the 'movies' dataset.
 The 'movies' dataset is a csv file that contains a table of movie titles with categorical and numeric information about the movies. Revenue, Budget and popularity of the movie is included in the dataset. I answered questions about the 'movies' dataset in the Capstone Project II.ipynb notebook.
