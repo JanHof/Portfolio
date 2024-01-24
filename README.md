@@ -4,11 +4,13 @@
 
 
 ## Education
-- BComm Entrepreneurship
-- Honours degree in General Business Management
+
 - Data Scientist Bootcamp at Hyperion Dev
 - Data Science Online Course at UCT
 - Data Science Course at ExploreAI
+- BComm Entrepreneurship
+- Honours degree in General Business Management
+
 
 ## Projects
 
